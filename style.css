@@ -60,5 +60,7 @@ nav a:hover {
  height:100vh;
  color:white;
  background:black;
- 
+ display:flex;
+ flex-direction:column
+  
 }
